@@ -1,1 +1,1 @@
-# simplekfd_ipa only useful for a12x 16.3.1
+# simplekfd_ipa only useful to install trollstore for a12x 16.3.1
